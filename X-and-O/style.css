@@ -1,0 +1,16 @@
+.greate{
+    height:330px;
+    width:330px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.row{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    font-size: 34px;
+    text-align: center;
+ 
+}
